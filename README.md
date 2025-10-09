@@ -8,6 +8,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Dipurajasaha?label=Followers&style=social)](https://github.com/Dipurajasaha?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Dipurajasaha?label=Stars&style=social)](https://github.com/Dipurajasaha)
 
+<img src="https://raw.githubusercontent.com/Dipurajasaha/Dipurajasaha/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
@@ -99,6 +101,4 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Dipurajasaha/Dipurajasaha/output/snake.svg" alt="Snake animation" />
 
-###
