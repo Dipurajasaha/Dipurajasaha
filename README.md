@@ -98,3 +98,7 @@
 **Thanks for visiting! Feel free to explore my repositories and connect with me!** 🚀
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Dipurajasaha/Dipurajasaha/output/snake.svg" alt="Snake animation" />
+
+###
