@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Dipuraja Saha
+# 👋 Hi, I'm Dipu
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Data+Scientist;Deep+Learning+Enthusiast;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
