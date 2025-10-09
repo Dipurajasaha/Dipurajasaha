@@ -73,7 +73,6 @@
 - 🖼️ **Computer Vision**
 - 📝 **Natural Language Processing**
 - 📊 **Data Science & Analytics**
-- ☁️ **Cloud Computing**
 
 ---
 
