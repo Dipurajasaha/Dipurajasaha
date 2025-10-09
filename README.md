@@ -58,40 +58,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipurajasaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dipurajasaha&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipurajasaha&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dipurajasaha&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dipurajasaha&theme=tokyo-night&hide_border=true)](https://github.com/Dipurajasaha)
-
-</div>
-
----
-
 ## 🔭 Current Focus
 
 - 🧠 Exploring **Advanced Deep Learning Architectures**
